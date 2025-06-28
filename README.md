@@ -6,19 +6,19 @@
   <title>Meu Site Pessoal</title>
 </head>
 <body>
-  <h1>Olá! Eu sou João Silva 👋</h1>
-  <p>Estudante de Ciência da Computação. Apaixonado por tecnologia, jogos e música.</p>
+  <h1>Olá! Eu sou o Danilo Carvalho Firme 👋</h1>
+  <p>Estudante de Ciência da Computação. Gosto de tecnologia, jogos, festas e música.</p>
 
-  <h2>📂 Projetos</h2>
+  <h2>Quem sou eu ?</h2>
   <ul>
-    <li>Calculadora em C</li>
-    <li>Jogo da Velha em Python</li>
+    <li>Sou o Danilo, tenho 18 anos e sou de Iguatama Minas Gerais. Mas, nesse ano de 2025, mudei para a cidade de Alfenas para fazer faculdade.</li>
   </ul>
 
   <h2>🎮 Hobbies</h2>
-  <p>Jogos, tocar violão, resolver desafios de lógica.</p>
+  <p>Jogos de computador, programar, sinuca, truco, nadar</p>
 
   <h2>📫 Contato</h2>
-  <p>Email: joao@email.com</p>
+  <p>Email: danilo.firme@yahoo.com</p>
+   <p>Email: @danilo_firme77</p>
 </body>
 </html>
